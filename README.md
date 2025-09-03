@@ -37,7 +37,7 @@
 
 ![Commits per Day](https://github-readme-stats.vercel.app/api?username=Kidpech-code&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 
-![Contributions](https://ghchart.rshah.org/Kidpech-code)
+![Contributions by Month](https://github-contribution-stats.vercel.app/api/?username=Kidpech-code)
 
 ![Followers](https://img.shields.io/github/followers/Kidpech-code?style=social)
 
