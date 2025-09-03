@@ -20,4 +20,30 @@
 
 ![Kidpech-code's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kidpech-code&show_icons=true&theme=radical)
 
+![Kidpech-code's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kidpech-code&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kidpech-code&layout=compact&theme=radical)
+
+![Trophy Showcase](https://github-profile-trophy.vercel.app/?username=Kidpech-code&theme=radical)
+
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kidpech-code&theme=radical)
+
 ---
+
+<h3 align="left">🎉 Fun Fact</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Coding Fun GIF" width="300px"/>
+</p>
+
+<h3 align="left">🎮 My Hobbies</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="Gaming GIF" width="300px"/>
+  <img src="https://media.giphy.com/media/26xBukhKdgQf6r2Oc/giphy.gif" alt="Music GIF" width="300px"/>
+  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" alt="Travel GIF" width="300px"/>
+</p>
+
+<h3 align="left">🌟 Fun Programming Fact</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Programming Fact GIF" width="300px"/>
+  <br/>
+  Did you know? The first computer programmer was Ada Lovelace, who lived in the 1800s!
