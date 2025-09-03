@@ -47,9 +47,14 @@
 
 ![Trophy Showcase](https://github-profile-trophy.vercel.app/?username=Kidpech-code&theme=radical)
 
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kidpech-code&theme=radical)
-
 ---
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Kidpech-code/Kidpech-code/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
 
 ## 🎉 Fun Fact
 
