@@ -1,0 +1,21 @@
+name: Generate Snake Contribution SVG
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # รันทุกวัน
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Kidpech-code
+          outputs: |
+            output/github-contribution-grid-snake.svg
+      - name: Push SVG to output branch
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Generate contribution snake svg"
+          add: "output/github-contribution-grid-snake.svg"
