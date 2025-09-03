@@ -84,9 +84,10 @@
 
 ---
 
-## 💖 Support Me
+<div align="center">
+  <h2> 💖 Support Me </h2>
+  <br>
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J61KOD48)
+  <br/><br/><br/>
+</div>
 
-If you enjoy my work, consider supporting me:
-
-- [Buy Me a Coffee](https://www.buymeacoffee.com/Kidpech)
-- [Sponsor Me on GitHub](https://github.com/sponsors/Kidpech-code)
