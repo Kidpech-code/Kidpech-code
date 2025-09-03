@@ -1,0 +1,36 @@
+name: Generate snake contribution grid
+
+on:
+  # Run automatically every day at 00:00 UTC
+  schedule:
+    - cron: "0 0 * * *"
+  # Allow manual trigger
+  workflow_dispatch:
+  # Run on every push to main branch
+  push:
+    branches: [ "main" ]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: Generate snake game from contributions graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Kidpech-code
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif
+
+      - name: Commit and push generated files
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions[bot]
+          author_email: github-actions[bot]@users.noreply.github.com
+          message: 'Update contribution snake'
+          add: 'dist/*'
+          new_branch: output
+          push: origin output --force
