@@ -87,7 +87,9 @@
 <div align="center">
   <h2> 💖 Support Me </h2>
   <br>
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J61KOD48)
+  <a href="https://ko-fi.com/J3J61KOD48" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support Me on Ko-fi" />
+  </a>
   <br/><br/><br/>
 </div>
 
