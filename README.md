@@ -41,12 +41,6 @@
 
 ![Followers](https://img.shields.io/github/followers/Kidpech-code?style=social)
 
-![Kidpech-code's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kidpech-code&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kidpech-code&layout=compact&theme=radical)
-
-![Trophy Showcase](https://github-profile-trophy.vercel.app/?username=Kidpech-code&theme=radical)
-
 ---
 
 <div align="center">
