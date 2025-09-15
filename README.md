@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kidpech</h1>
-<h3 align="center">Application Developer</h3>
+<h3 align="center">Senior Application Developer</h3>
 
 - 📦 My published packages: [https://pub.dev/publishers/kidpech.app/packages](https://pub.dev/publishers/kidpech.app/packages)
 
@@ -86,4 +86,3 @@
   </a>
   <br/><br/><br/>
 </div>
-
