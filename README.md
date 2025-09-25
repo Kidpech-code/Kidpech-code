@@ -33,13 +33,11 @@
 
 ## 🚀 GitHub Stats
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Kidpech-code&label=Profile%20Views&color=brightgreen&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=Kidpech-code&label=Profile%20Views&color=brightgreen&style=flat) ![Followers](https://img.shields.io/github/followers/Kidpech-code?style=social)
 
 ![Commits per Day](https://github-readme-stats.vercel.app/api?username=Kidpech-code&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 
-![Contributions by Month](https://github-contribution-stats.vercel.app/api/?username=Kidpech-code)
-
-![Followers](https://img.shields.io/github/followers/Kidpech-code?style=social)
+![Contributions by Month](https://github-contribution-stats.vercel.app/api/?username=Kidpech-code) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidpech-code&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 ---
 
