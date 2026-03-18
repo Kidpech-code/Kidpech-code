@@ -27,7 +27,7 @@ class QueueManagerTests(unittest.TestCase):
         self.assertEqual(next_billing.status, TicketStatus.CALLED)
         self.assertEqual(len(manager.get_waiting_tickets("billing")), 0)
 
-    def test_call_next_without_service_uses_first_available_queue(self):
+    def test_call_next_without_service_respects_service_creation_order(self):
         manager = QueueManager()
         manager.issue_ticket("support")
         manager.issue_ticket("billing")
