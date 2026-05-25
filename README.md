@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm Kidpech</h1>
-<h3 align="center">Senior Application Developer</h3>
+<!-- 🎨 Capsule Render Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20I'm%20Kidpech%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Application%20Developer&descAlignY=55&descAlign=50" />
+</p>
+
+<!-- ⌨️ Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7508A&center=true&vCenter=true&width=600&lines=Senior+Application+Developer+%F0%9F%9A%80;Flutter+%26+Dart+Expert+%F0%9F%93%B1;Mobile+%7C+Web+%7C+Backend+Developer+%F0%9F%92%BB;7+Years+of+Coding+Experience+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C±" alt="Typing SVG" />
+</p>
+
+---
 
 - 📦 My published packages: [https://pub.dev/publishers/kidpech.app/packages](https://pub.dev/publishers/kidpech.app/packages)
 
@@ -65,6 +74,8 @@
   <br/><br/><br/>
 </div>
 
+---
+
 ## 🎉 Fun Fact
 
 <p align="center">
@@ -93,6 +104,13 @@
 
 ---
 
+<!-- 💬 Random Dev Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+---
+
 <div align="center">
   <h2> 💖 Support Me </h2>
   <br>
@@ -101,3 +119,8 @@
   </a>
   <br/><br/><br/>
 </div>
+
+<!-- 🎨 Capsule Render Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+</p>
