@@ -1,11 +1,11 @@
 <!-- 🎨 Capsule Render Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20I'm%20Kidpech%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Application%20Developer&descAlignY=55&descAlign=50&descSize=20&descColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20I'm%20Kidpech%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Application%20Developer%20%7C%20Flutter%20%26%20Dart%20Expert&descAlignY=55&descSize=18" alt="Header"/>
 </p>
 
 <!-- ⌨️ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7508A&center=true&vCenter=true&width=600&lines=Senior+Application+Developer;Flutter+%26+Dart+Expert;Mobile+%26+Web+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7508A&center=true&vCenter=true&width=600&lines=Senior+Application+Developer;Flutter+%26+Dart+Expert;Mobile+%26+Web+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kidpech-pianpithak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kidpech pianpithak" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=61579747685241&locale=th_TH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kidpech facebook" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kidpech-pianpithak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kidpech-pianpithak" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61579747685241&locale=th_TH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 </p>
 
 ---
@@ -139,6 +139,16 @@ Claude Code              6 mins              ░░░░░░░░░░░�
 
  Last Updated on 25/05/2026 06:21:29 UTC
 <!--END_SECTION:waka-->
+
+---
+
+## 🎧 Spotify — Now Playing
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31liv26i7k4ndonsnjj346vimroa&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31liv26i7k4ndonsnjj346vimroa&cover_image=true&theme=karaoke&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false" alt="Spotify Now Playing" />
+  </a>
+</p>
 
 ---
 
