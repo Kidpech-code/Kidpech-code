@@ -1,11 +1,11 @@
 <!-- 🎨 Capsule Render Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20I'm%20Kidpech%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Application%20Developer&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20I'm%20Kidpech%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Application%20Developer&descAlignY=55&descAlign=50" />
 </p>
 
 <!-- ⌨️ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7508A&center=true&vCenter=true&width=600&lines=Senior+Application+Developer+%F0%9F%9A%80;Flutter+%26+Dart+Expert+%F0%9F%93%B1;Mobile+%7C+Web+%7C+Backend+Developer+%F0%9F%92%BB;7+Years+of+Coding+Experience+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C±" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7508A&center=true&vCenter=true&width=600&lines=Senior+Application+Developer;Flutter+%26+Dart+Expert;Mobile+%7C+Web+%7C+Backend+Developer;7+Years+of+Coding+Experience;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 </p>
 
 ---
