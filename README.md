@@ -67,24 +67,6 @@
 
 ---
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/Kidpech-code/Kidpech-code/blob/main/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
-
----
-
-<div align="center">
-  <h2>🌐 3D Contribution Graph</h2>
-  <br>
-  <img alt="3D contribution graph" src="https://github.com/Kidpech-code/Kidpech-code/blob/main/profile-3d-contrib/profile-gitblock.svg" />
-  <br/><br/>
-</div>
-
----
-
 ## 📊 Weekly Development Breakdown (Last 30 Days)
 
 <!--START_SECTION:waka-->
