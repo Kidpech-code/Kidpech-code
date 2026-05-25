@@ -76,6 +76,38 @@
 
 ---
 
+<div align="center">
+  <h2>🌐 3D Contribution Graph</h2>
+  <br>
+  <img alt="3D contribution graph" src="https://github.com/Kidpech-code/Kidpech-code/blob/main/profile-3d-contrib/profile-gitblock.svg" />
+  <br/><br/>
+</div>
+
+---
+
+## 📊 Weekly Development Breakdown (Last 30 Days)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## 🎵 Spotify — Now Playing
+
+<!--
+  🎵 SPOTIFY SETUP REQUIRED:
+  To activate this section, deploy the Spotify service to Vercel:
+  1. Go to https://github.com/kittinan/spotify-github-profile
+  2. Click "Sign in with Spotify" at https://spotify-github-profile.kittinan.dev
+  3. Copy your UID from the generated URL
+  4. Replace YOUR_UID below with your actual UID
+  5. Delete this comment block
+-->
+
+[![Spotify](https://spotify-github-profile.kittinan.dev/api/view?uid=YOUR_UID&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinan.dev/api/view?uid=YOUR_UID&cover_image=true&theme=natemoo-re&redirect=true)
+
+---
+
 ## 🎉 Fun Fact
 
 <p align="center">
