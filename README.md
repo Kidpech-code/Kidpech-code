@@ -65,6 +65,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kidpech-code&theme=radical" alt="GitHub Activity Graph" />
 </p>
 
+<!-- 📊 WakaTime Coding Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kidpech&theme=radical&layout=compact" alt="WakaTime Coding Stats" />
+</p>
+
 ---
 
 <div align="center">
@@ -73,6 +78,22 @@
   <img alt="snake eating my contributions" src="https://github.com/Kidpech-code/Kidpech-code/blob/main/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
+
+---
+
+## 📊 3D Contribution Calendar
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kidpech-code/Kidpech-code/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
+</p>
+
+---
+
+## 🎵 Music
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+</p>
 
 ---
 
