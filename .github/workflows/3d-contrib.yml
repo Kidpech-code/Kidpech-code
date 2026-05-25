@@ -21,6 +21,6 @@ jobs:
         run: |
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
-          git add -A .
+          git add profile-3d-contrib/
           git commit -m "chore: generate 3D contribution graph" || exit 0
           git push
