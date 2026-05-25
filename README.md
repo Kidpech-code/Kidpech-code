@@ -88,6 +88,56 @@
 ## 📊 Weekly Development Breakdown (Last 30 Days)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-920%20hrs%2029%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 592.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 297 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 53 Public Repositories 
+ > 
+> 🔑 33 Private Repositories 
+ > 
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   1966 commits        ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
+Tuesday                  1425 commits        █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Wednesday                1280 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Thursday                 1120 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Friday                   1149 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Saturday                 359 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Sunday                   468 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Dart                     16 hrs 40 mins      ████████████░░░░░░░░░░░░░   46.67 % 
+Markdown                 4 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Go                       3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+HTML                     2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Python                   2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+
+🔥 Editors: 
+VS Code                  35 hrs 37 mins      █████████████████████████   99.72 % 
+Claude Code              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Kidpech-code/Kidpech-code/main/assets/bar_graph.png)
+
+
+ Last Updated on 25/05/2026 06:21:29 UTC
 <!--END_SECTION:waka-->
 
 ---
