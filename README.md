@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kidpech pianpithak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kidpech pianpithak" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=61579747685241&locale=th_TH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kidpech pianpithak" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61579747685241&locale=th_TH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kidpech" height="30" width="40" /></a>
 </p>
 
 ---
@@ -41,9 +41,20 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Kidpech-code&label=Profile%20Views&color=brightgreen&style=flat) ![Followers](https://img.shields.io/github/followers/Kidpech-code?style=social)
 
-![Commits per Day](https://github-readme-stats.vercel.app/api?username=Kidpech-code&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+<!-- 🏆 GitHub Profile Trophy -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kidpech-code&theme=radical&no-frame=true&row=1&column=7" alt="Kidpech-code trophies" />
+</p>
 
-![Contributions by Month](https://github-contribution-stats.vercel.app/api/?username=Kidpech-code) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidpech-code&exclude_repo=Kidpech-code&layout=compact&theme=radical)
+<!-- 🔥 GitHub Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Kidpech-code&theme=radical" alt="GitHub Streak" />
+</p>
+
+<!-- 📈 GitHub Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kidpech-code&theme=radical" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
