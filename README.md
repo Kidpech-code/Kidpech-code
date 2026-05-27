@@ -1,6 +1,6 @@
 <!-- 🎨 Capsule Render Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Hi%20I%27m%20Kidpech&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=36&amp;desc=Senior%20Application%20Developer%20%7C%20Flutter%20%26%20Dart%20Expert&amp;descAlignY=58&amp;descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Hi%20Kidpech%20Here%21&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=36&amp;desc=Senior%20Application%20Developer%20%7C%20Flutter%20%2B%20Dart%20Expert&amp;descAlignY=58&amp;descSize=18" />
 </p>
 
 <!-- ⌨️ Typing Animation -->
@@ -90,56 +90,56 @@
 ## 📊 Weekly Development Breakdown (Last 30 Days)
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-919%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 593.2 kB Used in GitHub's Storage 
- > 
+> 📦 593.2 kB Used in GitHub's Storage
+>
 > 🏆 304 Contributions in the Year 2026
- > 
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 53 Public Repositories 
- > 
-> 🔑 33 Private Repositories 
- > 
-> 📅 **I'm Most Productive on Monday** 
+>
+> 📜 53 Public Repositories
+>
+> 🔑 33 Private Repositories
+>
+> 📅 **I'm Most Productive on Monday**
 
 ```text
-Monday                   1973 commits        ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
-Tuesday                  1426 commits        █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-Wednesday                1280 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Thursday                 1120 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Friday                   1149 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Saturday                 359 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-Sunday                   468 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Monday                   1973 commits        ██████░░░░░░░░░░░░░░░░░░░   25.38 %
+Tuesday                  1426 commits        █████░░░░░░░░░░░░░░░░░░░░   18.34 %
+Wednesday                1280 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
+Thursday                 1120 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 %
+Friday                   1149 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 %
+Saturday                 359 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+Sunday                   468 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-Dart                     17 hrs 32 mins      █████████████░░░░░░░░░░░░   51.55 % 
-Markdown                 4 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Go                       2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-HTML                     1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Image (png)              1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+💬 Programming Languages:
+Dart                     17 hrs 32 mins      █████████████░░░░░░░░░░░░   51.55 %
+Markdown                 4 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.77 %
+Go                       2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+HTML                     1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+Image (png)              1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
 
-🔥 Editors: 
-VS Code                  33 hrs 56 mins      █████████████████████████   99.70 % 
-Claude Code              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+🔥 Editors:
+VS Code                  33 hrs 56 mins      █████████████████████████   99.70 %
+Claude Code              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Kidpech-code/Kidpech-code/main/assets/bar_graph.png)
 
+Last Updated on 26/05/2026 01:19:16 UTC
 
- Last Updated on 26/05/2026 01:19:16 UTC
 <!--END_SECTION:waka-->
 
 ---
