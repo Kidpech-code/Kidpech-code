@@ -1,6 +1,6 @@
 <!-- 🎨 Capsule Render Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Hi%20Kidpech%20Here%21&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=36&amp;desc=Senior%20Application%20Developer%20%7C%20Flutter%20%2B%20Dart%20Expert&amp;descAlignY=58&amp;descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Hi%20Kidpech%20Here%21&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=36&amp;desc=Senior%20Application%20Developer%20%7C%20Flutter%20%2B%20Dart&amp;descAlignY=58&amp;descSize=18" />
 </p>
 
 <!-- ⌨️ Typing Animation -->
