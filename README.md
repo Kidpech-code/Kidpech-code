@@ -1,7 +1,9 @@
-<!-- 🎨 Capsule Render Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Hi%20I%27m%20Kidpech&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=36&amp;desc=Senior%20Application%20Developer%20%7C%20Flutter%20%26%20Dart%20Expert&amp;descAlignY=58&amp;descSize=18" />
-</p>
+<!-- 🎨 Header -->
+<div align="center">
+  <h1>👋 Hi, I'm Kidpech</h1>
+  <h3>🚀 Senior Application Developer | Flutter &amp; Dart Expert</h3>
+  <p>📱 Mobile &amp; Web Developer &nbsp;·&nbsp; 🌱 Open Source Contributor</p>
+</div>
 
 <!-- ⌨️ Typing Animation -->
 <p align="center">
@@ -198,7 +200,7 @@ Claude Code              6 mins              ░░░░░░░░░░░�
   <br/><br/><br/>
 </div>
 
-<!-- 🎨 Capsule Render Footer -->
+<!-- 🎨 Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" />
+  <sub>Made with ❤️ by Kidpech · © 2026</sub>
 </p>
