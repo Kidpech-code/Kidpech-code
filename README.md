@@ -50,9 +50,9 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Kidpech-code&label=Profile%20Views&color=brightgreen&style=flat) ![Followers](https://img.shields.io/github/followers/Kidpech-code?style=social)
 
-<!-- 🏆 GitHub Profile Trophy -->
+<!-- 🏆 GitHub Achievements -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kidpech-code&theme=radical&no-frame=true&row=1&column=7" alt="Kidpech-code trophies" />
+  <img src="https://raw.githubusercontent.com/Kidpech-code/Kidpech-code/main/output/github-achievements.svg" alt="Kidpech-code achievements" />
 </p>
 
 <!-- 🔥 GitHub Streak Stats -->
