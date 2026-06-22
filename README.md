@@ -64,7 +64,7 @@
 
 <!-- 🔄 Daily refresh marker -->
 <p align="center">
-  <sub>Last profile refresh: 2026-06-21 UTC</sub>
+  <sub>Last profile refresh: 2026-06-22 UTC</sub>
 </p>
 
 ---
