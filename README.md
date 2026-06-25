@@ -234,5 +234,9 @@ Codex CLI                1 hr 22 mins        █░░░░░░░░░░�
 </p>
 
 <p align="center">
+  <sub>Last profile refresh: 2026-06-25 UTC</sub>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer" />
 </p>
