@@ -134,7 +134,57 @@ Learning deeply. Building practically. Shipping responsibly.
 ## 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-<!-- WakaTime stats will be updated here automatically if your workflow is enabled. -->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C071%20hrs%2027%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 884.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 371 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 56 Public Repositories 
+ > 
+> 🔑 35 Private Repositories 
+ > 
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   2159 commits        ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+Tuesday                  1627 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Wednesday                1609 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Thursday                 1473 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Friday                   1366 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Saturday                 605 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Sunday                   689 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Dart                     17 hrs 37 mins      ████████████████░░░░░░░░░   64.51 % 
+Markdown                 5 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
+Other                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Go                       42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+
+🔥 Editors: 
+VS Code                  20 hrs 21 mins      ███████████████████░░░░░░   74.53 % 
+Claude Code              5 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+Codex CLI                1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Kidpech-code/Kidpech-code/main/assets/bar_graph.png)
+
+
+ Last Updated on 25/06/2026 01:21:10 UTC
 <!--END_SECTION:waka-->
 
 ---
