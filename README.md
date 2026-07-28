@@ -234,7 +234,7 @@ Codex CLI                1 hr 22 mins        █░░░░░░░░░░�
 </p>
 
 <p align="center">
-  <sub>Last profile refresh: 2026-07-27 UTC</sub>
+  <sub>Last profile refresh: 2026-07-28 UTC</sub>
 </p>
 
 <p align="center">
