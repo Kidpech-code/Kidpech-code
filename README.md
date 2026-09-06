@@ -21,11 +21,11 @@
 </p>
 
 <p align="center">
-  <a href="#about-me">About</a> ·
-  <a href="#tech-stack">Tech Stack</a> ·
-  <a href="#published-packages">Packages</a> ·
-  <a href="#github-activity">Activity</a> ·
-  <a href="#connect-with-me">Connect</a>
+  <a href="#user-content-about-me">About</a> ·
+  <a href="#user-content-tech-stack">Tech Stack</a> ·
+  <a href="#user-content-published-packages">Packages</a> ·
+  <a href="#user-content-github-activity">Activity</a> ·
+  <a href="#user-content-connect-with-me">Connect</a>
 </p>
 
 ---
