@@ -1,0 +1,18 @@
+{
+  "header.svg": "https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Kidpech%20Pianpithak&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Application%20Developer%20%7C%20Flutter%20%2B%20Backend%20%2B%20Developer%20Tools&descAlignY=58&descSize=18",
+  "typing.svg": "https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7508A&center=true&vCenter=true&width=720&lines=Building+useful+software+for+real+people;Flutter+%2F+Dart+%E2%80%A2+Go+%E2%80%A2+APIs+%E2%80%A2+Automation;Clean+architecture+%2B+practical+developer+tools",
+  "pub-badge.svg": "https://img.shields.io/badge/pub.dev-packages-0175C2?style=for-the-badge&logo=dart&logoColor=white",
+  "linkedin-badge.svg": "https://img.shields.io/badge/LinkedIn-Kidpech%20Pianpithak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white",
+  "email-badge.svg": "https://img.shields.io/badge/Email-kidpech.app-EA4335?style=for-the-badge&logo=gmail&logoColor=white",
+  "languages.svg": "https://skillicons.dev/icons?i=dart,flutter,go,python,typescript,javascript,kotlin,swift,c,cpp&perline=10&theme=dark",
+  "tools.svg": "https://skillicons.dev/icons?i=react,firebase,supabase,postgres,redis,docker,linux,githubactions,figma,vscode&perline=10&theme=dark",
+  "playwright-badge.svg": "https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white",
+  "railway-badge.svg": "https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white",
+  "postgis-badge.svg": "https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white",
+  "api-design-badge.svg": "https://img.shields.io/badge/API%20Design-111827?style=for-the-badge&logo=fastapi&logoColor=white",
+  "packages-badge.svg": "https://img.shields.io/badge/View%20my%20Dart%20%2F%20Flutter%20packages-pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white",
+  "linkedin-icon.svg": "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg",
+  "facebook-icon.svg": "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg",
+  "email-icon.svg": "https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg",
+  "footer.svg": "https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"
+}
