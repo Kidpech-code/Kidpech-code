@@ -36,6 +36,8 @@
 
 I'm **Kidpech Pianpithak**, an application developer who enjoys turning real-world problems into clean, reliable, and useful software.
 
+[Kidpech Pianpithak's portfolio](https://kidpech.app/) brings together my Flutter and Go projects and open-source packages.
+
 I work across **mobile apps, backend APIs, automation, and developer tools** — with a strong focus on practical products that people can actually use, not just shiny demos that look good for five minutes and then explode quietly in production.
 
 - 💙 I care about software that is useful, ethical, and easy to maintain
